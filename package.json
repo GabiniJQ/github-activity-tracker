@@ -1,0 +1,17 @@
+{
+  "name": "github-activity-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "description": "",
+  "bin": {
+    "gat": "./app.js"
+  }
+}
